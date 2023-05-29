@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsalan-dev
 - 👀 I’m interested in developing new stuff
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning JavaScript, React, Express/Node.js and MongoDB
 - 📫 You can reach me on arsalan11772@gmail.com
 
 <!---
